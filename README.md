@@ -1,7 +1,7 @@
 # boilerplate-sass-gulp
 
 1. Create repo on github
-2. Create folder locally (mkdir "dir name")
+2. Create folder localy (mkdir "dir name")
 3. cd "dir name"
 4. git init
 5. git remote add "SSH"
